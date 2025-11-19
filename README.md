@@ -8,11 +8,11 @@ It was created for UMGC CMSC 306: Computer Architecture.
 - Three 8-bit registers (REG_A, REG_B, REG_OUT)  
 - Control unit for loading and executing instructions  
 - Shared datapath and status flags  
-- Test program to verify instruction flow and operations  
+- Test program to verify instruction flow
 
 ## 📄 Project Files
-- **CPU_Project.pdf** – Full technical report explaining the design, architecture, and test results  
-- **ALU.circ** – Logisim circuit file for the ALU and simple CPU
+- **CPU_Project.pdf** — Full technical report  
+- **ALU.circ** — Logisim circuit file
 
 ## 🧠 Technologies
 - Logisim-evolution  
