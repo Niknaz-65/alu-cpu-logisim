@@ -4,6 +4,10 @@
 Design and implementation of an 8-bit Arithmetic Logic Unit (ALU) and a simple CPU using Logisim-evolution.  
 The project demonstrates low-level computing fundamentals including instruction execution, register operations, and control logic.
 
+## Architecture Overview
+
+![ALU and CPU Architecture](alu_screenshot.png)
+
 ## Why This Project Matters
 - Demonstrates understanding of how software instructions translate into hardware operations
 - Builds foundational knowledge relevant to reverse engineering and malware analysis
